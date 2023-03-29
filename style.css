@@ -1,0 +1,78 @@
+* {
+  box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+  display: block;
+}
+body {
+  background-color: rgb(44, 43, 43);
+}
+h1 {
+  color: white;
+  margin-left: 370px;
+}
+.flags {
+  margin-top: 30px;
+  width: 1000px;
+  margin-left: 170px;
+  margin-bottom: 30px;
+}
+.flag {
+  width: 300px;
+  height: 200px;
+  display: inline-block;
+  border: 2px solid white;
+  margin: 2px;
+}
+.flag-one {
+  background-image: radial-gradient(60px, red 100px, white 100px);
+}
+
+.flag-two {
+  background-image: radial-gradient(
+    circle at 40% 50%,
+    yellow 70px,
+    rgb(0, 179, 255) 70px
+  );
+}
+
+.flag-three {
+  background-image: radial-gradient(
+      circle,
+      rgb(255, 255, 255) 49px,
+      transparent 49px
+    ),
+    linear-gradient(
+      rgb(255, 0, 0) 25%,
+      rgb(43, 38, 143) 25% 75%,
+      rgb(255, 0, 0) 75%
+    );
+}
+
+.arcoiris {
+  width: 2000px;
+  margin-left: 170px;
+  width: 912px;
+  height: 450px;
+  display: inline-block;
+  border: 2px solid white;
+  margin-top: 20px;
+  background-image: radial-gradient(
+    400px at 50% 100%,
+    transparent 12.5%,
+    red 12.5% 25%,
+    orange 25% 37.5%,
+    yellow 37.5% 50%,
+    rgb(0, 241, 0) 50% 62.5%,
+    blue 62.5% 75%,
+    purple 75% 87.5%,
+    rgb(255, 164, 179) 87.5% 100%,
+    transparent 100%
+  );
+}
+
+.text-arcoiris {
+  color: white;
+  margin-left: 570px;
+}
