@@ -1,4 +1,4 @@
-# Título del proyecto
+# BANDERAS CON DEGRADADOS RADIALES
 
 ![Imagen del proyecto](https://raw.githubusercontent.com/eugeniavalls/banderas-radiales/main/assets/screenshots/Captura%20de%20pantalla%202023-05-06%20a%20las%2011.50.49.png)
 
